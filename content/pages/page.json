@@ -10,7 +10,7 @@
       "name": "Home hero",
       "component": "Hero",
       "props": {
-        "heading": "Book same-day appointments",
+        "heading": "Same-day appointments (changeset 0fc6144d)",
         "subheading": "Same-week appointments across 12 clinics.",
         "ctaLabel": "Book an appointment",
         "ctaHref": "/services/",

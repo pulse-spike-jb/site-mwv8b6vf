@@ -1,0 +1,19 @@
+{
+  "id": "0fc6144d",
+  "baseCommit": "0ff10fb5bd13e60beedae38d30fab20f86e17303",
+  "intent": "Change the Home hero heading",
+  "steps": [
+    {
+      "ops": [
+        {
+          "op": "updateSectionProps",
+          "pagePath": "",
+          "sectionId": "sec_home_hero",
+          "props": {
+            "heading": "Same-day appointments (changeset 0fc6144d)"
+          }
+        }
+      ]
+    }
+  ]
+}
